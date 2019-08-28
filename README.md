@@ -1,0 +1,2 @@
+# firecurd
+ionic + angular + firebase
